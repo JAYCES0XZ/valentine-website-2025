@@ -8,7 +8,7 @@ const CONFIG = {
     valentineName: "Lucas Daniel Waldmann",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    // You can use emojis! 💝 💖 🥰 💓 🤭 💕
     pageTitle:"To my One and only",
 
     // Floating emojis that appear in the background
@@ -31,8 +31,8 @@ const CONFIG = {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
-        // love metter messages.                                     
-    // They show up depending on how far they slide the meter
+    // love meter messages.
+     // They show up depending on how far they slide the meter                                    
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
@@ -52,19 +52,15 @@ const CONFIG = {
         text: "Based on your answers are you sure !"🤨", //
         yesBTn: "Yes im sure",                                         // Text for" Yes im sure" button
         noBTn: "Yes im sure",                                          // Text for "Yes im sure" button
-    // Love meter messages.                                            
-    // They show up depending on how far they slide the meter
-    loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
-
+    sixth: { " Will you be my valentine!!".               //
+        YesBTn: "Yes ofc i will",                                     // Text for " Yes ofc i will" button
+        noBTn: "No i will not",                            //.           // Text for " No i will not" button 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: " Thank you for everything you do for me, i will always love you forever!",
+        emojis: "💍💋⚰️🖤"  // These will bounce around
     },
 
     // Color scheme for the website
